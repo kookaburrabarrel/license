@@ -1,0 +1,4 @@
+{
+ "payload": "{\n \"customer\": \"\",\n \"expires\": \"2027-01-04\",\n \"id\": \"58fdf549fd0b24af\",\n \"issued\": \"2026-11-20T06:45:51Z\",\n \"machine_ids\": [\n  \"e48e9f1f4bca429b93eb6b8cb344c4e2\"\n ],\n \"status\": \"active\"\n}",
+ "sig": "W+A384rqMexPf/uqAWHH0cx7eqJW8hRtEomoPEzCeoHnTr7ln6MaidenbYTeUZWFdfSjNviWQJOp7Rj6SdimAw=="
+}
